@@ -110,8 +110,8 @@ Gmail API Monitoring → PDF Extraction → AI Data Processing → Eligibility V
 - **Archive management** for historical records
 - **Audit logging** of all exports for compliance
 
-![Batch Export Interface](.github/assets/Screenshot%202025-08-29%20at%2017.23.59.png)
-*Bulk export interface for generating federal compliance CSV files*
+![Batch Export Interface](.github/assets/Screenshot%202025-09-25%20at%2022.12.33.png)
+*Dual-panel interface showing Form 8850 PDF alongside eligibility verification workflow*
 
 ## 🛠️ Technical Stack
 
