@@ -2,6 +2,9 @@
 
 **Production-grade enterprise application** for automated federal tax credit processing with AI-powered document extraction, geographic eligibility verification, and multi-tenant client management.
 
+![Dashboard Overview](.github/assets/Screenshot%202025-08-29%20at%2017.22.52.png)
+*Real-time dashboard showing application processing pipeline with Kanban-style status tracking*
+
 ## 🎯 Overview
 
 A comprehensive full-stack platform that automates the entire Work Opportunity Tax Credit (WOTC) processing workflow—from email ingestion to final CSV export—saving organizations thousands of hours in manual document processing while ensuring compliance with federal requirements.
@@ -96,6 +99,9 @@ Gmail API Monitoring → PDF Extraction → AI Data Processing → Eligibility V
 - **Progress tracking** with time-in-stage metrics
 - **Priority flagging** for urgent applications
 
+![Application Detail View](.github/assets/Screenshot%202025-08-29%20at%2017.23.19.png)
+*Detailed application view with AI-extracted data and geographic eligibility verification*
+
 ### 6. Federal Compliance CSV Export
 - **86-column format** matching IRS specifications
 - **Field mapping** from internal schema to federal requirements
@@ -103,6 +109,9 @@ Gmail API Monitoring → PDF Extraction → AI Data Processing → Eligibility V
 - **Batch export** for multiple applications
 - **Archive management** for historical records
 - **Audit logging** of all exports for compliance
+
+![Batch Export Interface](.github/assets/Screenshot%202025-08-29%20at%2017.23.59.png)
+*Bulk export interface for generating federal compliance CSV files*
 
 ## 🛠️ Technical Stack
 
